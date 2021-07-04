@@ -1,5 +1,5 @@
 # XW-GI5610-Config
-![XW-GI5610-Config](E:\projects\XW-GI5610-Config\image\XW-GI5610-Config.png)
+![XW-GI5610-Config](https://github.com/WeiHYDavid/XW-GI5610-Config/blob/main/image/XW-GI5610-Config.png)
 
 ## 简介
 
